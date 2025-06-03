@@ -1,5 +1,5 @@
 # Automatic Light Controller using LDR and Arduino UNO controller.
-**Name: DHARSHINIYAA KS (212223100004)**
+
 ##  AIM:
 
 To design and simulate automatic light controller using LDR and Arduino UNO controller in proteus.
